@@ -11,9 +11,9 @@
   
 - 👋 This is Hiei and I love cat cat nyan😻 nyan😾 meow😸 meow😽
   
-- 🔭 I'm currently working on ***Backend Development***
+- 🔭 I'm currently working on ***FullStack Development*** projects
   
-- 🌱 I'm currently learning FULLSTACK with <a href="https://github.com/beenotung/ts-liveview"> ts-liveview </a>
+- 🌱 I'm currently learning Machine Learning
 
 - 🌸 I'm a native ***Cantonese*** speaker and fluent in ***English***. I can also speak a little bit of ***Japanese***. For Mandarin, I would depned on where you from. ✅ ROC ❌ PRC
 
